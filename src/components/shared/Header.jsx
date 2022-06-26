@@ -69,7 +69,7 @@ const Header = () => {
 
             className=' flex items-center gap-8'>
             <li className='text-base text-headingColor hover:text-headingColor duration-100   transition-all cursor-pointer ease-in-out' >
-              <NavLink exact to='/*'>Home header</NavLink>
+              <NavLink exact to='/*'>Home</NavLink>
               </li>
             <li className='text-base text-headingColor hover:text-headingColor duration-100 transition-all cursor-pointer ease-in-out'>
               <NavLink exact to='/'>Menu</NavLink>
